@@ -12,9 +12,8 @@ const Contactme = () =>{
     const [isActive, setIsActive] = useState(false)
 
     const whatsappMessegeHandler = () => {
-        console.log(username.current.value.length)
-        console.log(username.current.value)
-        if(username.current.value.length>5 && query.current.value.length>5 && queryDescription.current.value.length>5 && email.current.value.length>5){
+
+        if(username.current.value.length>0 && query.current.value.length>0 && queryDescription.current.value.length>0 && email.current.value.length>0){
             
             const messege = `Hello Noor, my name is ${username.current.value} (${email.current.value}), I have a query (${query.current.value})
             'Query Description : ${queryDescription.current.value}'`
