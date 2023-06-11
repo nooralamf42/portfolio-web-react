@@ -7,7 +7,7 @@ const About = () =>{
 
             <hr />
 
-            <p>I'm extreamly <span>passionate</span> about creating web apps. I've always been curious about how things work behind the scenes and whether my ideas would be successful. So far, I have acquired knowledge in HTML, CSS, JavaScript, Bootstrap, Python, C, <span>ReactJS</span>.</p>
+            <p>I'm extremely <span>passionate</span> about creating web apps. I've always been curious about how things work behind the scenes and whether my ideas would be successful. So far, I have acquired knowledge in HTML, CSS, JavaScript, Bootstrap, Python, C, <span>ReactJS</span>.</p>
 
             <p>Although I have many ideas, I believe there is always more to learn. Currently, I am applying what I have learned to develop web apps.</p>
 
