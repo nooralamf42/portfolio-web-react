@@ -3,19 +3,19 @@ const About = () =>{
         <div>
             <h1 className="page-h1">About me</h1>
             <p>Hey, I'm Noor Alam. Most people knows me as <span>Noor</span>.</p>
-            <p>I'am currently learning <span>Web Development</span> from <span>codekaro.in</span>. I focus on learnig the concepts and implement them into real life projects.</p>
+            <p>I'am currently learning <span>Web Development</span> from <span>codekaro.in</span>. My focus is on learning the concepts and implementing them into real-life projects.</p>
 
             <hr />
 
-            <p>I'm very <span>passionate</span> to create web apps that I always wanted to know would they work and how things works behind the sceanes, now I have learned lots of concepts like html, css, javascript, bootstrap, python, c, <span>reactjs</span>.</p>
+            <p>I'm extreamly <span>passionate</span> about creating web apps. I've always been curious about how things work behind the scenes and whether my ideas would be successful. So far, I have acquired knowledge in HTML, CSS, JavaScript, Bootstrap, Python, C, <span>ReactJS</span>.</p>
 
-            <p>I have many ideas to work on but I have not learned enough yet, more or less right now I am making web apps with what I have learned untill now</p>
+            <p>Although I have many ideas, I believe there is always more to learn. Currently, I am applying what I have learned to develop web apps.</p>
 
             <hr />
 
-            <p>I have been active on <span>YouTube</span> since 2017. I have total <span>150k+ subscribers</span> on youtube. I loved making youtube videos and have spended lots of time making videos, thumbnails and finding most suitable titles etc.</p>
+            <p>I have been active on <span>YouTube</span> since 2017. I have total <span>150k+ subscribers</span> on youtube.  I enjoy creating videos and have invested a significant amount of time into making high-quality content, designing eye-catching thumbnails, and finding the most suitable titles.</p>
 
-            <p>Right now I am only focused on learning <span>Web Development</span>, I hope you would like to see me grow in this journey.</p>
+            <p>At present, my primary focus is on learning <span>Web Development</span>. I hope you will join me on this journey and witness my growth.</p>
 
             {/* <hr />
 
