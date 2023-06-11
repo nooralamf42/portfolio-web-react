@@ -26,7 +26,7 @@ const Profile = () =>{
                     </a>
                 </div>
             </div>
-            <p>I'am currently learning ReactJS, focused on learning while making projects. I have created many projects so far with html, css, bootstrap, javascript and reactJS. I am very passinate to learn web development. I also make youtube videos.</p>
+            <p>I am currently learning ReactJS and I am highly dedicated to improving my skills by creating various web development projects. I have successfully completed several projects using HTML, CSS, Bootstrap, JavaScript, and ReactJS. My passion for web development drives me to constantly learn and grow. I also make youtube videos.</p>
 
             <div className="social-btns flex">
                 <a className="profile-social-btn flex" href="https://www.linkedin.com/in/noor-alam-725639265/" target="_blank">
