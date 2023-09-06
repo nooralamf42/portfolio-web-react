@@ -105,10 +105,10 @@ hr{
 }
 
 .profile-img:hover{
-  cursor: url("https://media.licdn.com/dms/image/D4D03AQHPZTC3VpLaLw/profile-displayphoto-shrink_200_200/0/1677584834551?e=1691625600&v=beta&t=_NZsxZPW2GZdedHyIBT2jjK0AynWXj47Tq6S1a5_DNY");
+  cursor: pointer;
   background-position-x: -25px;
   background-position-y: 2px;
-  background-image: url("https://scontent.flko9-2.fna.fbcdn.net/v/t1.6435-9/66595997_1304697819683429_1790382251486216192_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=19026a&_nc_ohc=ARl-B8rB9xUAX_aclL2&_nc_ht=scontent.flko9-2.fna&oh=00_AfCcarCOVzDC8ARGwSnbMIcVGkZ73DSt8xQOwV224Go7iQ&oe=64A79101");
+  background-image: url("background-image: url("https://scontent.flko9-1.fna.fbcdn.net/v/t1.6435-9/75439240_1401119193374624_5665191107579871232_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a4a2d7&_nc_ohc=TQA5FHBaXf8AX9or3Se&_nc_ht=scontent.flko9-1.fna&oh=00_AfD6dNn24wkdNh2DAAFaUuiWid8Gbee_E-zR45WC3zLwxQ&oe=652032B7");
 }
 
 .featured-links{
