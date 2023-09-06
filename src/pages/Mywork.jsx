@@ -2,6 +2,38 @@ import MyProjects from "../components/MyProjects";
 
 const data = [
     {
+        linkedin: 'https://www.linkedin.com/posts/noor-alam-725639265_webdevelopment-html-tailwindcss-activity-7097162916981878784-zqUN?utm_source=share&utm_medium=member_desktop',
+        gitRepo: 'https://github.com/nooralamf42/razorPayClone-TailwindCSS/',
+        liveSever: 'https://razor-pay-clone-tailwind-css.vercel.app/',
+        title: 'RazorPay.com Clone Tailwind',
+        description: 'RazorPay.com clone using Tailwind CSS with responsive design.',
+        imgSrc: 'https://media.licdn.com/dms/image/D4D05AQEG6MCdIasSNw/feedshare-thumbnail_720_1280/0/1692095430376?e=1694624400&v=beta&t=eAXQcYY0GACQ7wun8xjsYKy7PpxpUo9Ndbp4OIqr7Ok'
+    },
+    {
+        linkedin: 'https://www.linkedin.com/posts/noor-alam-725639265_webdevelopment-fullstackdeveloper-todolist-activity-7093604170695417857-L4WK?utm_source=share&utm_medium=member_desktop',
+        gitRepo: 'https://github.com/nooralamf42/fullStakeToDoApp',
+        liveSever: 'https://todo-nu-lime-93.vercel.app/',
+        title: 'Full Stake Todo Web App',
+        description: 'Introducing my ToDo web app, a project that showcases my skills in both frontend and backend web development. This powerful app allows users to efficiently manage their tasks with full CRUD functionality and the added security of JWT authentication.',
+        imgSrc: 'https://media.licdn.com/dms/image/D4D05AQHfyj4icFmfRg/feedshare-thumbnail_720_1280/0/1691246971994?e=1694624400&v=beta&t=zXzKZaNmImZlq24h3ONnDCDsbmi5sPhsimvcouanIjo'
+    },
+    {
+        linkedin: 'https://www.linkedin.com/posts/noor-alam-725639265_api-quranquotes-backenddevelopment-activity-7090401314941153281-ZEEx?utm_source=share&utm_medium=member_desktop',
+        gitRepo: 'https://github.com/nooralamf42/QuranQuotesAPI',
+        liveSever: 'https://quranquotes.vercel.app/',
+        title: 'Quran Quotes API',
+        description: 'Now you can easily access a collection of inspirational Quran quotes through a simple API. Whether you're building an app, website, or project, this API provides you with a wide range of Quranic wisdom.',
+        imgSrc: 'https://media.licdn.com/dms/image/D4D05AQGvYV2WPdbOgw/feedshare-thumbnail_720_1280/0/1686463655615?e=1694624400&v=beta&t=rh6DwIOMl6zn0i_GH_Sp1lRe3U1VOyOkpTQ0FcyoivA'
+    },
+    {
+        linkedin: 'https://www.linkedin.com/posts/noor-alam-725639265_nodejs-registrationform-webdevelopment-activity-7073541413568659456-FnW_?utm_source=share&utm_medium=member_desktop',
+        gitRepo: 'https://github.com/nooralamf42/registration-page-nodejs',
+        liveSever: 'https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086473195/original/R46zM1RGOBclOA7fqEVL3wINYL2GOUrLDw.png?1608248678',
+        title: 'Node.JS Registration Form',
+        description: ' Node.js Registration Form project! 🚀 It features a seamless registration process, followed by a successful registration page. Additionally, you can explore the registered users page, where you'll find a table showcasing their names, emails, and messages.',
+        imgSrc: 'https://media.licdn.com/dms/image/D4D05AQGvYV2WPdbOgw/feedshare-thumbnail_720_1280/0/1686463655615?e=1694624400&v=beta&t=rh6DwIOMl6zn0i_GH_Sp1lRe3U1VOyOkpTQ0FcyoivA'
+    },
+    {
       linkedin: 'https://www.linkedin.com/posts/noor-alam-725639265_convertall-reactjsproject-unitconversiontool-activity-7072071978735534080-t6DO?utm_source=share&utm_medium=member_desktop',
       gitRepo: 'https://lnkd.in/di62Gask',
       liveServer: 'https://lnkd.in/diU97KyX',
