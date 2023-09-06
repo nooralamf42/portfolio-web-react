@@ -22,7 +22,7 @@ const data = [
         gitRepo: 'https://github.com/nooralamf42/QuranQuotesAPI',
         liveSever: 'https://quranquotes.vercel.app/',
         title: 'Quran Quotes API',
-        description: 'Now you can easily access a collection of inspirational Quran quotes through a simple API. Whether you're building an app, website, or project, this API provides you with a wide range of Quranic wisdom.',
+        description: "Now you can easily access a collection of inspirational Quran quotes through a simple API. Whether you're building an app, website, or project, this API provides you with a wide range of Quranic wisdom.",
         imgSrc: 'https://media.licdn.com/dms/image/D4D05AQGvYV2WPdbOgw/feedshare-thumbnail_720_1280/0/1686463655615?e=1694624400&v=beta&t=rh6DwIOMl6zn0i_GH_Sp1lRe3U1VOyOkpTQ0FcyoivA'
     },
     {
@@ -30,7 +30,7 @@ const data = [
         gitRepo: 'https://github.com/nooralamf42/registration-page-nodejs',
         liveSever: 'https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086473195/original/R46zM1RGOBclOA7fqEVL3wINYL2GOUrLDw.png?1608248678',
         title: 'Node.JS Registration Form',
-        description: ' Node.js Registration Form project! 🚀 It features a seamless registration process, followed by a successful registration page. Additionally, you can explore the registered users page, where you'll find a table showcasing their names, emails, and messages.',
+        description: "Node.js Registration Form project! 🚀 It features a seamless registration process, followed by a successful registration page. Additionally, you can explore the registered users page, where you'll find a table showcasing their names, emails, and messages.",
         imgSrc: 'https://media.licdn.com/dms/image/D4D05AQGvYV2WPdbOgw/feedshare-thumbnail_720_1280/0/1686463655615?e=1694624400&v=beta&t=rh6DwIOMl6zn0i_GH_Sp1lRe3U1VOyOkpTQ0FcyoivA'
     },
     {
