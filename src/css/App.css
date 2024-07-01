@@ -61,6 +61,22 @@ hr{
   flex-direction: column;
 }
 
+.page-h1 {
+  font-size: 2.5em;
+  color: #333;
+  margin-top: 20px;
+}
+
+
+p {
+  font-size: 1.2em;
+  line-height: 1.6;
+  color: #555;
+  margin: 10px 0;
+}
+
+
+
 @import url('https://fonts.googleapis.com/css2?family=Orbit&display=swap');
 
 .side-nav a{
@@ -96,19 +112,20 @@ hr{
 }
 
 .profile-img{
+  overflow: hidden;
   width: 90px;
   height: 90px;
-  background-image: url("https://avatars.githubusercontent.com/u/90553481?v=4");
+  background-image: url("https://media.licdn.com/dms/image/D5603AQEmTlkzu1ljdw/profile-displayphoto-shrink_200_200/0/1718210954784?e=1725494400&v=beta&t=eJ3eR7ZkNowWiLf_lv6DJry80YUr3h3dhTlAnHVIs5k");
   background-size: cover;
   cursor: pointer;
+  filter: saturate(0);
   border-radius: 50%;
+  box-shadow: #eee 10px 10px 10px 5px;
 }
 
 .profile-img:hover{
   cursor: pointer;
-  background-position-x: -25px;
-  background-position-y: 2px;
-  background-image: url("https://scontent.flko9-1.fna.fbcdn.net/v/t1.6435-9/75439240_1401119193374624_5665191107579871232_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a4a2d7&_nc_ohc=TQA5FHBaXf8AX9or3Se&_nc_ht=scontent.flko9-1.fna&oh=00_AfD6dNn24wkdNh2DAAFaUuiWid8Gbee_E-zR45WC3zLwxQ&oe=652032B7");
+  filter: saturate(100%);
 }
 
 .featured-links{
@@ -231,6 +248,11 @@ hr{
   box-shadow: 10px 12px 10px 10px #eee;
 }
 
+.main-box:hover{
+  cursor: pointer;
+  rotate: 3deg;
+}
+
 .box{
   padding: 1.5rem;
 }
@@ -253,6 +275,9 @@ hr{
 
 .project-img{
   width: 100%;
+  object-position: top;
+  object-fit: cover;
+  height: 320px;
   border-radius: 18px 18px 0 0;
 }
 
@@ -301,4 +326,8 @@ hr{
   .aboutpage-buttons a{
     width: 60%;
   }
+}
+
+.bg-green{
+  background-color: green;
 }
